@@ -2,6 +2,9 @@
 
 This tutorial outlines the steps to create and configure virtual machines within Azure. This is a prerequisite step, as the virtual machines will be used to inspect network protocols.
 
+## Prerequisites Needed
+- Microsoft Azure Subscription (Free/Pay as you go)
+  
 ## Environments Used
 - Microsoft Azure (Cloud Environment)
 - Windows 11 Pro (Virtual Machine OS)
