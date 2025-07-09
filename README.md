@@ -16,5 +16,8 @@ This tutorial outlines the steps to create and configure virtual machines within
 - TCP/IP, HTTP, ICMP (Network Protocols)
 
 # Setup Instructions
-
+- Log into or sign up for a Microsoft Azure subscription
+- Once on homepage, navigate/search for "Resource Groups".
+- Create a Resource Group
+<!Provide the steps on how to create a resource groups. Add images of each step, provide small description, and explanation on why we are doing this depending on the step>
 ### 
