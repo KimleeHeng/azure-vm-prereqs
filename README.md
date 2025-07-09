@@ -1,2 +1,2 @@
 <h1> Setting up Virtual Machines within Azure </h1>
-prerequisite repository containing instructions to set up virtual machines in Azure
+This tutorial outlines the steps to create and configure virtual machines within Azure. This is a prerequisite step, as the virtual machines will be used to inspect network protocols.
