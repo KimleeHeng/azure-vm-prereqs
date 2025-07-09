@@ -12,8 +12,6 @@ This tutorial outlines the steps to create and configure virtual machines within
 
 ## Technologies Used
 - Azure Virtual Machines
-- Wireshark (Packet Capture & Analysis)
-- TCP/IP, HTTP, ICMP (Network Protocols)
 
 # Setup Instructions
 - Log into or sign up for a Microsoft Azure subscription
