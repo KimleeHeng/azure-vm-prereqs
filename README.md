@@ -24,8 +24,23 @@ This tutorial outlines the steps to create and configure virtual machines within
 ![attachments/1.png](attachments/1.png)
 
 1.2 On the Resource Groups page, click Create to start a new resource group:
-1.3 Select your subscription, and name your resource group. For this lab's purpose, it will be titled *Testing-RG*
 
 ![attachments/2.png](attachments/2.png)
-<!Provide the steps on how to create a resource groups. Add images of each step, provide small description, and explanation on why we are doing this depending on the step>
-### 
+
+1.3 Fill out the following information:
+- Select your subscription
+- Name your resource group. (For this lab's purpose, it will be titled *Testing-RG*)
+- Choose the region you are residing in
+
+Then Click Review + create to proceed.
+
+![attachments/3.png](attachments/3.png)
+
+Following this, you will be prompted to review your new resource group information on the next page. Ensure the information entered is correct, and then click Create to Proceed.
+
+**A resource group has now succcesfully been created.**
+
+## Step 2: Create a Windows 10 Virtual Machine
+
+2.1 Head to the Azure main page and navigate to/search for "Virtual Machines"
+<!comment>
