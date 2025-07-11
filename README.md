@@ -44,5 +44,5 @@ Following this, you will be prompted to review your new resource group informati
 
 2.1 Search for "Virtual Machine" in the search bar, or navigate to the Virtual Machine section back on the home page.
 
-![attachments/3.png](attachments/3.png)
+![attachments/4-VM.png](attachments/4-VM.png)
 
