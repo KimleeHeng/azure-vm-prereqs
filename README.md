@@ -42,5 +42,7 @@ Following this, you will be prompted to review your new resource group informati
 
 ## Step 2: Create a Windows 10 Virtual Machine
 
-2.1 Head to the Azure main page and navigate to/search for "Virtual Machines"
-<!comment>
+2.1 Search for "Virtual Machine" in the search bar, or navigate to the Virtual Machine section back on the home page.
+
+![attachments/3.png](attachments/3.png)
+
