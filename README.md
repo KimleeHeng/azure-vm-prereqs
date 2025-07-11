@@ -58,3 +58,5 @@ Following this, you will be prompted to review your new resource group informati
 - Availablity Zone - Select **"Zone 3"**
 - Image - Select **"Windows 11 Pro, version 24H2 - x64 Gen2"**
 - Size - Select **"Standard_D2s_v3 - 2vcpus, 8GiB memory ($70.08/month)"**
+
+![attachments/6-vm_settings.png](attachments/6-vm_settings.png)
