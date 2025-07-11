@@ -22,6 +22,10 @@ This tutorial outlines the steps to create and configure virtual machines within
 - After logging into your Azure account, navigate to/search for "Resource Groups".
 
 ![attachments/1.png](attachments/1.png)
-- Create a Resource Group
+
+
+- On the Resource Groups page, click Create to start a new resource group.
+
+- 
 <!Provide the steps on how to create a resource groups. Add images of each step, provide small description, and explanation on why we are doing this depending on the step>
 ### 
