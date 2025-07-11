@@ -51,9 +51,9 @@ Following this, you will be prompted to review your new resource group informati
 ![attachments/5-VM_Create.png](attachments/5-VM_Create.png)
 
 2.3 Fill out the following information:
-- Subscription: Select your current and active subscription
-- Resource Group: Select the resource group previously made in Step 1; **Testing-RG**
-- Virtual machine name: For this lab's purpose, we will name our VM **Windows-VM**
-- Region: Select your current region. For this lab's purpose, we will select **(US) East US**
-- Availablity Zone: Select **Zone 3**
-- Image: Select **Windows 11 Pro, version 24H2 - x64 Gen2**
+- Subscription - Select your current and active subscription
+- Resource Group - Select the resource group previously made in Step 1; **Testing-RG**
+- Virtual machine name - For this lab's purpose, we will name our VM:  **Windows-VM**
+- Region - Select your current region. For this lab's purpose, we will select **(US) East US**
+- Availablity Zone - Select **Zone 3**
+- Image - Select **Windows 11 Pro, version 24H2 - x64 Gen2**
