@@ -48,5 +48,5 @@ Following this, you will be prompted to review your new resource group informati
 
 2.2 On the Virtual Machine page, click **Create**, then select **Virtual machine**.
 
-![attachments/5-VM_create.png](attachments/5-VM_create.png)
+![attachments/5-VM_Create.png](attachments/5-VM_Create.png)
 
