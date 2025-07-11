@@ -46,7 +46,7 @@ Following this, you will be prompted to review your new resource group informati
 
 ![attachments/4-VM.png](attachments/4-VM.png)
 
-2.2 On the Virtual Machine page, click **Create**, then select **Virtual machine**.
+2.2 On the Virtual Machine page, click **Create**, and then select **Virtual machine**.
 
 ![attachments/5-VM_Create.png](attachments/5-VM_Create.png)
 
