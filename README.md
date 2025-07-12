@@ -66,3 +66,9 @@ Create your **Administrator account**.
 - For this lab, we will use **labuser** as the username and **Cyberlab123!** as the password.
 
 Check off the Licensing check box
+
+Click **Next: Disks>**, and then **Next: Networking >**
+
+![attachments/7-admin-settings.png](attachments/7-admin-settings.png)
+
+Click **Create new** under Virtual Network. A window to create a virtual network should pop up
