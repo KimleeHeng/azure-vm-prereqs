@@ -29,8 +29,8 @@ This tutorial outlines the steps to create and configure virtual machines within
 
 1.3 Fill out the following information:
 - Select your subscription
-- Name your resource group. For this lab's purpose, it will be titled **Testing-RG**
-- Choose the region you are residing in. For this lab's purpose, we will select **(US) East US**
+- Name your resource group. For this lab it will be titled **Testing-RG**
+- Choose the region you are residing in. For this lab, we will select **(US) East US**
 
 Then Click Review + create to proceed.
 
@@ -53,10 +53,16 @@ Following this, you will be prompted to review your new resource group informati
 2.3 Fill out the following information:
 - Subscription - Select your current and active subscription
 - Resource Group - Select the resource group previously made in Step 1: **"Testing-RG"**
-- Virtual machine name - For this lab's purpose, we will name our VM:  **"Windows-VM"**
-- Region - Select your current region. For this lab's purpose, we will select **"(US) East US"**
+- Virtual machine name - For this lab, we will name our VM:  **"Windows-VM"**
+- Region - Select your current region. For this lab, we will select **"(US) East US"**
 - Availablity Zone - Select **"Zone 3"**
 - Image - Select **"Windows 11 Pro, version 24H2 - x64 Gen2"**
 - Size - Select **"Standard_D2s_v3 - 2vcpus, 8GiB memory ($70.08/month)"**
 
 ![attachments/6-vm_settings.png](attachments/6-vm_settings.png)
+
+Create your **Administrator account**.
+
+- For this lab, we will use **labuser** as the username and **Cyberlab123!** as the password.
+
+Check off the Licensing check box
