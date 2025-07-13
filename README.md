@@ -72,3 +72,11 @@ Click **Next: Disks>**, and then **Next: Networking >**
 ![attachments/7-admin-settings.png](attachments/7-admin-settings.png)
 
 Click **Create new** under Virtual Network. A window to create a virtual network should pop up
+
+![attachments/8-vnet.png](attachments/8-vnet.png)
+
+Create your **Virtual Network**
+
+- For this lab, we will use **Lab-VNet** as the name of our virtual network
+
+![attachments/8-vnet.png](attachments/8-vnet.png)
