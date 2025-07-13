@@ -83,4 +83,8 @@ Click **OK** to proceed
 
 ![attachments/9-vnet-pt2.png](attachments/9-vnet-pt2.png)
 
+Back on the Virtual Machine page, Click **Review + Create** to proceed  
+
+![attachments/10-review-create.png](attachments/10-review-create.png)
+
 
