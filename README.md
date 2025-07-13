@@ -40,7 +40,7 @@ Following this, you will be prompted to review your new resource group informati
 
 **A resource group has now succcesfully been created.**
 
-## Step 2: Create a Windows 10 Virtual Machine
+## Step 2: Create a Windows 11 Virtual Machine
 
 2.1 Search for "Virtual Machine" in the search bar, or navigate to the Virtual Machine section back on the home page.
 
@@ -87,4 +87,12 @@ Back on the Virtual Machine page, Click **Review + Create** to proceed
 
 ![attachments/10-review-create.png](attachments/10-review-create.png)
 
+Confirm that **Validation passed** for your virtual machine.
 
+Review the the information you inputted, ensuring everything is correct.
+
+Click **Create** once more to initialize deployment of your virtual machine.
+
+![attachments/create-vm.png](attachments/create-vm.png)
+
+**A Windows 11 Virtual Machine has now succcesfully been created.**
