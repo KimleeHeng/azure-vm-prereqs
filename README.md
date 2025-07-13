@@ -106,3 +106,23 @@ Click **Create** once more to initialize deployment of your virtual machine.
 3.2 On the Virtual Machine page, click **Create**, and then select **Virtual machine**.
 
 ![attachments/5-VM_Create.png](attachments/5-VM_Create.png)
+
+3.3 Fill out the following information:
+- Subscription - Select your current and active subscription
+- Resource Group - Select the resource group previously made in Step 1: **"Testing-RG"**
+- Virtual machine name - For this lab, we will name our VM:  **"Linux-VM"**
+- Region - Select your current region. For this lab, we will select **"(US) East US"**
+- Availablity Zone - Select **"Zone 3"**
+- Image - Select **"Ubuntu Server 24.04 LTS - x64 Gen2"**
+- Size - Select **"Standard_D2s_v3 - 2vcpus, 8GiB memory ($70.08/month)"**
+
+![attachments/linux-vm-settings.png](attachments/linux-vm-settings.png)
+
+Create your **Administrator account**.
+
+- Select **Password** option for **Authentication Type**
+- For this lab, we will use **labuser** as the username and **Cyberlab123!** as the password.
+
+Click **Next: Disks>**, and then **Next: Networking >**
+
+![attachments/linux-acc-settings.png](attachments/linux-acc-settings.png)
