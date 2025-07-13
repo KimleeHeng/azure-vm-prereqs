@@ -126,3 +126,21 @@ Create your **Administrator account**.
 Click **Next: Disks>**, and then **Next: Networking >**
 
 ![attachments/linux-acc-settings.png](attachments/linux-acc-settings.png)
+
+For our Virtual Network, we will be selecting the virtual network that we created when creating our Windows 11 virtual machine: **Lab-VNet**
+
+![attachments/linux-vnet.png](attachments/linux-vnet.png)
+
+Click **Review + Create** to proceed  
+
+![attachments/10-review-create.png](attachments/10-review-create.png)
+
+Confirm that **Validation passed** for your virtual machine.
+
+Review the the information you inputted, ensuring everything is correct.
+
+Click **Create** once more to initialize deployment of your virtual machine.
+
+![attachments/create-vm2.png](attachments/create-vm2.png)
+
+A Linux Ubuntu Virtual Machine has now succcesfully been created 👍
