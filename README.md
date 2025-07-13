@@ -79,4 +79,8 @@ Create your **Virtual Network**
 
 - For this lab, we will use **Lab-VNet** as the name of our virtual network
 
-![attachments/8-vnet.png](attachments/8-vnet.png)
+Click **OK** to proceed
+
+![attachments/9-vnet-pt2.png](attachments/9-vnet-pt2.png)
+
+
