@@ -96,3 +96,13 @@ Click **Create** once more to initialize deployment of your virtual machine.
 ![attachments/create-vm.png](attachments/create-vm.png)
 
 **A Windows 11 Virtual Machine has now succcesfully been created.**
+
+## Step 3: Create a Linux (Ubuntu Server) Virtual Machine
+
+3.1 Search for "Virtual Machine" in the search bar, or navigate to the Virtual Machine section back on the home page.
+
+![attachments/4-VM.png](attachments/4-VM.png)
+
+3.2 On the Virtual Machine page, click **Create**, and then select **Virtual machine**.
+
+![attachments/5-VM_Create.png](attachments/5-VM_Create.png)
